@@ -1,0 +1,192 @@
+{
+  "items": [
+    {
+      "description": "Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades",
+      "items": [],
+      "title": "FanLayoutManager"
+    },
+    {
+      "description": "Android Carousel LayoutManager for RecyclerView",
+      "items": [],
+      "title": "CarouselLayoutManager"
+    },
+    {
+      "description": "A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features",
+      "items": [],
+      "title": "ChipsLayoutManager"
+    },
+    {
+      "description": "这是一个蜂巢布局管理器，它可以在RecyclerView中实现像蜂巢一样的布局。",
+      "items": [],
+      "title": "HiveLayoutManager"
+    },
+    {
+      "description": "VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。",
+      "items": [],
+      "title": "vlayout"
+    },
+    {
+      "description": "FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.",
+      "items": [],
+      "title": "flexbox-layout"
+    },
+    {
+      "description": "A Layoutmanager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory",
+      "items": [],
+      "title": "LondonEyeLayoutManager"
+    },
+    {
+      "description": "Scrollable list of items, where current item is centered and can be changed using swipes",
+      "items": [],
+      "title": "DiscreteScrollView"
+    },
+    {
+      "description": "Full aspect ratio grid LayoutManager for Android's RecyclerView also:SuitedRecyclerView",
+      "items": [],
+      "title": "greedo-layout-for-android"
+    },
+    {
+      "description": "仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等。同样效果的还有CardSwipeLayout",
+      "items": [],
+      "title": "ZLayoutManager"
+    },
+    {
+      "description": "A Circle and a zoom layoutManager for android RecyclerView",
+      "items": [],
+      "title": "CustomLayoutManager"
+    },
+    {
+      "description": "实现一个流动布局，可以用作文章展示，也可以用作标签展示，并且可以很方便地为其添加布局动画，示例代码里添加了拖拽插入的动画，如效果图。",
+      "items": [],
+      "title": "AssembleEssay"
+    },
+    {
+      "description": "实现 Android 中 Gallery 或者 ViewPager 控件的效果，支持垂直和水平两个方向，支持 RecycleView 的试图回收机制。",
+      "items": [],
+      "title": "GalleryLayoutManager"
+    },
+    {
+      "description": "Android Expandable LayoutManager for RecyclerView",
+      "items": [],
+      "title": "ExpandLayoutManager"
+    },
+    {
+      "description": "fade and shrink the head itemView when scrolling.",
+      "items": [],
+      "title": "VegaLayoutManager"
+    },
+    {
+      "description": "FlowLayoutManager is a layoutManager that works with Android RecyclerView Widget, to layout views in flow style, with support of predictive animations, item per line limit, auto measurement & alignments (left or right)",
+      "items": [],
+      "title": "flowlayoutmanager"
+    },
+    {
+      "description": "This project is the movement of a new card type UI for Android\n",
+      "items": [],
+      "title": "StackCardLayoutManager"
+    },
+    {
+      "description": "TimetableLayout is a RecyclerView.LayoutManager to display the timetable for Android.\n",
+      "items": [],
+      "title": "TimetableLayout"
+    },
+    {
+      "description": "A carousel layout manager for RecyclerView\n",
+      "items": [],
+      "title": "turn-layout-manager"
+    },
+    {
+      "description": "customized layoutmanager,let item pile up like stackview/类似最美有物卡片堆叠效果",
+      "items": [],
+      "title": "StackLayoutManager"
+    },
+    {
+      "description": "Full aspect ratio grid LayoutManager for Android's RecyclerView",
+      "items": [],
+      "title": "Greedo Layout for Android"
+    },
+    {
+      "description": "Simple in usage Recycler Layout Manager with circular item positioning.",
+      "items": [],
+      "title": "CircularLayoutManager"
+    },
+    {
+      "description": "An android recyclerView sticky item view layout manager library",
+      "items": [],
+      "title": "Sticky-LayoutManager"
+    },
+    {
+      "description": "the library is a loop RecyclerView(expression), can show some effects when display",
+      "items": [],
+      "title": "CircleRecyclerView"
+    },
+    {
+      "description": "A RecyclerView.LayoutManager implementation which provides functionality to show a group of stack view.",
+      "items": [],
+      "title": "StackLayoutManager"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Circular-Layout-Manager"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RecyclerCoverFlow"
+    },
+    {
+      "description": "A Horizontal / vertical scroll RecyclerView-LayoutManager with focus item.",
+      "items": [],
+      "title": "FocusLayoutManager"
+    },
+    {
+      "description": "Adapter and LayoutManager for Android RecyclerView which enables sticky header positioning.",
+      "items": [],
+      "title": "StickyHeaders"
+    },
+    {
+      "description": "An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotlin.",
+      "items": [],
+      "title": "ZoomRecylerLayout"
+    },
+    {
+      "description": "👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)",
+      "items": [],
+      "title": "EchelonLayoutManager"
+    },
+    {
+      "description": "👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)",
+      "items": [],
+      "title": "SkidRightLayoutManager"
+    },
+    {
+      "description": "👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)",
+      "items": [],
+      "title": "SlideLayoutManager"
+    },
+    {
+      "description": "👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)",
+      "items": [],
+      "title": "PickerLayoutManager"
+    },
+    {
+      "description": "👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)",
+      "items": [],
+      "title": "BannerLayoutManager"
+    },
+    {
+      "description": "👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)\n",
+      "items": [],
+      "title": "ViewPagerLayoutManager"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:34.139Z",
+    "original_repository": "jiang111/Awesome-RecyclerView-LayoutManager",
+    "original_repository_sha": "12b67b29719f8939a82d4ace2821f6d1b28a8f36",
+    "enhanced_repository": "enhansome/enhansome-Awesome-RecyclerView-LayoutManager",
+    "enhanced_repository_description": null,
+    "title": "Awesome-RecyclerView-LayoutManager with stars"
+  }
+}
