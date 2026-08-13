@@ -7,7 +7,7 @@ RecyclerView-LayoutManager resources
 Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades <br />
 ![](managerimgs/FanLayoutManager.gif)
 
-## [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) ⭐ 2,571 | 🐛 26 | 🌐 Java | 📅 2021-06-02
+## [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) ⭐ 2,570 | 🐛 26 | 🌐 Java | 📅 2021-06-02
 
 Android Carousel LayoutManager for RecyclerView <br />
 ![](managerimgs/CarouselLayoutManager.gif)
@@ -76,7 +76,7 @@ A Circle and a zoom layoutManager for android RecyclerView<br />
 Android Expandable LayoutManager for RecyclerView<br />
 ![](managerimgs/ExpandLayoutManager.gif)<br />
 
-## [VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager) ⭐ 1,830 | 🐛 22 | 🌐 Java | 📅 2019-10-03
+## [VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager) ⭐ 1,829 | 🐛 22 | 🌐 Java | 📅 2019-10-03
 
 fade and shrink the head itemView when scrolling.
 ![](https://github.com/xmuSistone/VegaLayoutManager/raw/master/capture.gif) <br /><br /><br />
