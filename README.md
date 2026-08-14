@@ -38,7 +38,7 @@ FlexboxLayout is a library project which brings the similar capabilities of [CSS
 A Layoutmanager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory<br />
 ![](managerimgs/LondonEyeLayoutManager.gif)
 
-## [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) ⭐ 5,771 | 🐛 44 | 🌐 Java | 📅 2024-08-19
+## [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) ⭐ 5,769 | 🐛 44 | 🌐 Java | 📅 2024-08-19
 
 Scrollable list of items, where current item is centered and can be changed using swipes<br />
 ![](managerimgs/DiscreteScrollView.gif)
@@ -92,7 +92,7 @@ This project is the movement of a new card type UI for Android <br />
 
 ![](https://github.com/amyu/StackCardLayoutManager/raw/master/sc/screen.gif)
 
-## [TimetableLayout](https://github.com/MoyuruAizawa/TimetableLayout) ⭐ 777 | 🐛 1 | 🌐 Kotlin | 📅 2025-07-06
+## [TimetableLayout](https://github.com/MoyuruAizawa/TimetableLayout) ⭐ 776 | 🐛 1 | 🌐 Kotlin | 📅 2025-07-06
 
 TimetableLayout is a RecyclerView\.LayoutManager to display the timetable for Android.<br />
 
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
