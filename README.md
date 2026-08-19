@@ -7,7 +7,7 @@ RecyclerView-LayoutManager resources
 Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades <br />
 ![](managerimgs/FanLayoutManager.gif)
 
-## [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) ⭐ 2,570 | 🐛 26 | 🌐 Java | 📅 2021-06-02
+## [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) ⭐ 2,569 | 🐛 26 | 🌐 Java | 📅 2021-06-02
 
 Android Carousel LayoutManager for RecyclerView <br />
 ![](managerimgs/CarouselLayoutManager.gif)
