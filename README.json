@@ -1,7 +1,554 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 69570428,
+            "language": "Java",
+            "last_commit": "2017-08-09T12:06:45Z",
+            "owner": "Cleveroad",
+            "repo": "FanLayoutManager",
+            "stars": 2044
+          },
+          "title": "FanLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "Android Carousel LayoutManager for RecyclerView",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 55052303,
+            "language": "Java",
+            "last_commit": "2021-06-02T04:16:14Z",
+            "owner": "Azoft",
+            "repo": "CarouselLayoutManager",
+            "stars": 2569
+          },
+          "title": "CarouselLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 64873196,
+            "language": "Java",
+            "last_commit": "2020-01-17T20:46:04Z",
+            "owner": "Oleg-Beloy",
+            "repo": "ChipsLayoutManager",
+            "stars": 3279
+          },
+          "title": "ChipsLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "这是一个蜂巢布局管理器，它可以在RecyclerView中实现像蜂巢一样的布局。",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 67792958,
+            "language": "Java",
+            "last_commit": "2016-11-25T07:32:28Z",
+            "owner": "Chacojack",
+            "repo": "HiveLayoutManager",
+            "stars": 621
+          },
+          "title": "HiveLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 83285138,
+            "language": "Java",
+            "last_commit": "2021-07-14T04:40:34Z",
+            "owner": "alibaba",
+            "repo": "vlayout",
+            "stars": 10726
+          },
+          "title": "vlayout"
+        },
+        {
+          "children": [],
+          "description": "FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 58034548,
+            "language": "Kotlin",
+            "last_commit": "2024-04-22T19:22:36Z",
+            "owner": "google",
+            "repo": "flexbox-layout",
+            "stars": 18303
+          },
+          "title": "flexbox-layout"
+        },
+        {
+          "children": [],
+          "description": "A Layoutmanager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 47789403,
+            "language": "Java",
+            "last_commit": "2016-01-26T21:23:53Z",
+            "owner": "danylovolokh",
+            "repo": "LondonEyeLayoutManager",
+            "stars": 1186
+          },
+          "title": "LondonEyeLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "Scrollable list of items, where current item is centered and can be changed using swipes",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 83851056,
+            "language": "Java",
+            "last_commit": "2024-08-19T09:48:41Z",
+            "owner": "yarolegovich",
+            "repo": "DiscreteScrollView",
+            "stars": 5769
+          },
+          "title": "DiscreteScrollView"
+        },
+        {
+          "children": [],
+          "description": "Full aspect ratio grid LayoutManager for Android's RecyclerView also:SuitedRecyclerView",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 51173511,
+            "language": "Java",
+            "last_commit": "2022-06-21T21:20:31Z",
+            "owner": "500px",
+            "repo": "greedo-layout-for-android",
+            "stars": 1618
+          },
+          "title": "greedo-layout-for-android"
+        },
+        {
+          "children": [],
+          "description": "仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等。同样效果的还有CardSwipeLayout",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 72081317,
+            "language": "Java",
+            "last_commit": "2023-05-31T16:08:31Z",
+            "owner": "mcxtzhang",
+            "repo": "ZLayoutManager",
+            "stars": 2532
+          },
+          "title": "ZLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "A Circle and a zoom layoutManager for android RecyclerView",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 65211594,
+            "language": "Java",
+            "last_commit": "2019-11-12T02:12:22Z",
+            "owner": "leochuan",
+            "repo": "ViewPagerLayoutManager",
+            "stars": 1751
+          },
+          "title": "CustomLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "实现一个流动布局，可以用作文章展示，也可以用作标签展示，并且可以很方便地为其添加布局动画，示例代码里添加了拖拽插入的动画，如效果图。",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 73807880,
+            "language": "Java",
+            "last_commit": "2018-06-12T02:48:59Z",
+            "owner": "rantianhua",
+            "repo": "AssembleEssay",
+            "stars": 130
+          },
+          "title": "AssembleEssay"
+        },
+        {
+          "children": [],
+          "description": "实现 Android 中 Gallery 或者 ViewPager 控件的效果，支持垂直和水平两个方向，支持 RecycleView 的试图回收机制。",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 76538069,
+            "language": "Java",
+            "last_commit": "2022-08-23T03:25:22Z",
+            "owner": "BCsl",
+            "repo": "GalleryLayoutManager",
+            "stars": 1010
+          },
+          "title": "GalleryLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "Android Expandable LayoutManager for RecyclerView",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 57012533,
+            "language": "Java",
+            "last_commit": "2016-11-11T02:44:08Z",
+            "owner": "Azoft",
+            "repo": "ExpandLayoutManager",
+            "stars": 48
+          },
+          "title": "ExpandLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "fade and shrink the head itemView when scrolling.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 104197720,
+            "language": "Java",
+            "last_commit": "2019-10-03T12:08:47Z",
+            "owner": "xmuSistone",
+            "repo": "VegaLayoutManager",
+            "stars": 1828
+          },
+          "title": "VegaLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "FlowLayoutManager is a layoutManager that works with Android RecyclerView Widget, to layout views in flow style, with support of predictive animations, item per line limit, auto measurement & alignments (left or right)",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 48700062,
+            "language": "Java",
+            "last_commit": "2018-05-28T18:49:22Z",
+            "owner": "xiaofeng-han",
+            "repo": "AndroidLibs",
+            "stars": 183
+          },
+          "title": "flowlayoutmanager"
+        },
+        {
+          "children": [],
+          "description": "This project is the movement of a new card type UI for Android",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 160187029,
+            "language": "Kotlin",
+            "last_commit": "2019-01-03T09:16:18Z",
+            "owner": "amyu",
+            "repo": "StackCardLayoutManager",
+            "stars": 398
+          },
+          "title": "StackCardLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "TimetableLayout is a RecyclerView.LayoutManager to display the timetable for Android.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 168386789,
+            "language": "Kotlin",
+            "last_commit": "2025-07-06T20:29:42Z",
+            "owner": "MoyuruAizawa",
+            "repo": "TimetableLayout",
+            "stars": 776
+          },
+          "title": "TimetableLayout"
+        },
+        {
+          "children": [],
+          "description": "A carousel layout manager for RecyclerView",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 97037587,
+            "language": "Java",
+            "last_commit": "2020-11-12T16:10:01Z",
+            "owner": "cdflynn",
+            "repo": "turn-layout-manager",
+            "stars": 948
+          },
+          "title": "turn-layout-manager"
+        },
+        {
+          "children": [],
+          "description": "customized layoutmanager,let item pile up like stackview/类似最美有物卡片堆叠效果",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 94516691,
+            "language": "Java",
+            "last_commit": "2021-04-23T07:26:37Z",
+            "owner": "HirayClay",
+            "repo": "StackLayoutManager",
+            "stars": 460
+          },
+          "title": "StackLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "Full aspect ratio grid LayoutManager for Android's RecyclerView",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 51173511,
+            "language": "Java",
+            "last_commit": "2022-06-21T21:20:31Z",
+            "owner": "500px",
+            "repo": "greedo-layout-for-android",
+            "stars": 1618
+          },
+          "title": "Greedo Layout for Android"
+        },
+        {
+          "children": [],
+          "description": "Simple in usage Recycler Layout Manager with circular item positioning.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 202732436,
+            "language": "Kotlin",
+            "last_commit": "2019-11-04T12:48:07Z",
+            "owner": "leshchenko",
+            "repo": "CircularLayoutManager",
+            "stars": 186
+          },
+          "title": "CircularLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "An android recyclerView sticky item view layout manager library",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 113008134,
+            "language": "Java",
+            "last_commit": "2019-07-23T13:34:50Z",
+            "owner": "qiujiecn",
+            "repo": "sticky-layoutmanager",
+            "stars": 288
+          },
+          "title": "Sticky-LayoutManager"
+        },
+        {
+          "children": [],
+          "description": "the library is a loop RecyclerView(expression), can show some effects when display",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 68218894,
+            "language": "Java",
+            "last_commit": "2023-06-08T12:02:12Z",
+            "owner": "kHRYSTAL",
+            "repo": "CircleRecyclerView",
+            "stars": 712
+          },
+          "title": "CircleRecyclerView"
+        },
+        {
+          "children": [],
+          "description": "A RecyclerView.LayoutManager implementation which provides functionality to show a group of stack view.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 139549573,
+            "language": "Kotlin",
+            "last_commit": "2021-08-31T15:01:21Z",
+            "owner": "LittleMango",
+            "repo": "StackLayoutManager",
+            "stars": 292
+          },
+          "title": "StackLayoutManager"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 64862763,
+            "language": "Kotlin",
+            "last_commit": "2020-07-03T14:04:07Z",
+            "owner": "kapil93",
+            "repo": "Circular-Layout-Manager",
+            "stars": 189
+          },
+          "title": "Circular-Layout-Manager"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 88574269,
+            "language": "Java",
+            "last_commit": "2020-09-01T01:59:52Z",
+            "owner": "ChenLittlePing",
+            "repo": "RecyclerCoverFlow",
+            "stars": 843
+          },
+          "title": "RecyclerCoverFlow"
+        },
+        {
+          "children": [],
+          "description": "A Horizontal / vertical scroll RecyclerView-LayoutManager with focus item.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 187336346,
+            "language": "Java",
+            "last_commit": "2023-03-02T01:44:55Z",
+            "owner": "CCY0122",
+            "repo": "FocusLayoutManager",
+            "stars": 833
+          },
+          "title": "FocusLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "Adapter and LayoutManager for Android RecyclerView which enables sticky header positioning.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 56408159,
+            "language": "Java",
+            "last_commit": "2019-10-12T22:31:33Z",
+            "owner": "ShamylZakariya",
+            "repo": "StickyHeaders",
+            "stars": 1392
+          },
+          "title": "StickyHeaders"
+        },
+        {
+          "children": [],
+          "description": "An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotlin.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 231736297,
+            "language": "Kotlin",
+            "last_commit": "2020-07-22T03:32:34Z",
+            "owner": "Spikeysanju",
+            "repo": "ZoomRecylerLayout",
+            "stars": 808
+          },
+          "title": "ZoomRecylerLayout"
+        },
+        {
+          "children": [],
+          "description": "👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 131404910,
+            "language": "Java",
+            "last_commit": "2023-10-11T11:05:47Z",
+            "owner": "DingMouRen",
+            "repo": "LayoutManagerGroup",
+            "stars": 4972
+          },
+          "title": "EchelonLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 131404910,
+            "language": "Java",
+            "last_commit": "2023-10-11T11:05:47Z",
+            "owner": "DingMouRen",
+            "repo": "LayoutManagerGroup",
+            "stars": 4972
+          },
+          "title": "SkidRightLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 131404910,
+            "language": "Java",
+            "last_commit": "2023-10-11T11:05:47Z",
+            "owner": "DingMouRen",
+            "repo": "LayoutManagerGroup",
+            "stars": 4972
+          },
+          "title": "SlideLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 131404910,
+            "language": "Java",
+            "last_commit": "2023-10-11T11:05:47Z",
+            "owner": "DingMouRen",
+            "repo": "LayoutManagerGroup",
+            "stars": 4972
+          },
+          "title": "PickerLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 131404910,
+            "language": "Java",
+            "last_commit": "2023-10-11T11:05:47Z",
+            "owner": "DingMouRen",
+            "repo": "LayoutManagerGroup",
+            "stars": 4972
+          },
+          "title": "BannerLayoutManager"
+        },
+        {
+          "children": [],
+          "description": "👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 131404910,
+            "language": "Java",
+            "last_commit": "2023-10-11T11:05:47Z",
+            "owner": "DingMouRen",
+            "repo": "LayoutManagerGroup",
+            "stars": 4972
+          },
+          "title": "ViewPagerLayoutManager"
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T14:46:03.974Z",
+    "last_updated": "2026-08-24T14:13:24.804Z",
     "original_repository": "jiang111/Awesome-RecyclerView-LayoutManager",
     "original_repository_id": 86555299,
     "original_repository_sha": "12b67b29719f8939a82d4ace2821f6d1b28a8f36",
