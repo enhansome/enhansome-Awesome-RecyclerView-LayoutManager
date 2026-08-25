@@ -29,7 +29,7 @@
             "last_commit": "2021-06-02T04:16:14Z",
             "owner": "Azoft",
             "repo": "CarouselLayoutManager",
-            "stars": 2569
+            "stars": 2570
           },
           "title": "CarouselLayoutManager"
         },
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:52.964Z",
+    "last_updated": "2026-08-25T15:11:44.167Z",
     "original_repository": "jiang111/Awesome-RecyclerView-LayoutManager",
     "original_repository_id": 86555299,
     "original_repository_sha": "12b67b29719f8939a82d4ace2821f6d1b28a8f36",
