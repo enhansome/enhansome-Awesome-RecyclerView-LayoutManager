@@ -29,7 +29,7 @@
             "last_commit": "2021-06-02T04:16:14Z",
             "owner": "Azoft",
             "repo": "CarouselLayoutManager",
-            "stars": 2570
+            "stars": 2571
           },
           "title": "CarouselLayoutManager"
         },
@@ -74,7 +74,7 @@
             "last_commit": "2021-07-14T04:40:34Z",
             "owner": "alibaba",
             "repo": "vlayout",
-            "stars": 10726
+            "stars": 10725
           },
           "title": "vlayout"
         },
@@ -104,7 +104,7 @@
             "last_commit": "2016-01-26T21:23:53Z",
             "owner": "danylovolokh",
             "repo": "LondonEyeLayoutManager",
-            "stars": 1186
+            "stars": 1185
           },
           "title": "LondonEyeLayoutManager"
         },
@@ -149,7 +149,7 @@
             "last_commit": "2023-05-31T16:08:31Z",
             "owner": "mcxtzhang",
             "repo": "ZLayoutManager",
-            "stars": 2532
+            "stars": 2531
           },
           "title": "ZLayoutManager"
         },
@@ -224,7 +224,7 @@
             "last_commit": "2019-10-03T12:08:47Z",
             "owner": "xmuSistone",
             "repo": "VegaLayoutManager",
-            "stars": 1828
+            "stars": 1827
           },
           "title": "VegaLayoutManager"
         },
@@ -548,9 +548,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:57:32.668Z",
-    "original_repository": "jiang111/Awesome-RecyclerView-LayoutManager",
-    "original_repository_id": 86555299,
+    "last_updated": "2026-08-27T11:23:55.990Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 86555299,
+      "language": null,
+      "last_commit": "2021-10-15T05:02:27Z",
+      "owner": "jiang111",
+      "repo": "Awesome-RecyclerView-LayoutManager",
+      "stars": 1129
+    },
     "original_repository_sha": "12b67b29719f8939a82d4ace2821f6d1b28a8f36",
     "enhanced_repository": "enhansome/enhansome-Awesome-RecyclerView-LayoutManager",
     "enhanced_repository_description": null,

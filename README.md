@@ -7,7 +7,7 @@ RecyclerView-LayoutManager resources
 Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades <br />
 ![](managerimgs/FanLayoutManager.gif)
 
-## [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) ⭐ 2,570 | 🐛 26 | 🌐 Java | 📅 2021-06-02
+## [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) ⭐ 2,571 | 🐛 26 | 🌐 Java | 📅 2021-06-02
 
 Android Carousel LayoutManager for RecyclerView <br />
 ![](managerimgs/CarouselLayoutManager.gif)
@@ -33,7 +33,7 @@ FlexboxLayout is a library project which brings the similar capabilities of [CSS
 ![](managerimgs/flexbox-layout.gif)
 ![](managerimgs/flexbox-layout2.gif)
 
-## [LondonEyeLayoutManager](https://github.com/danylovolokh/LondonEyeLayoutManager) ⭐ 1,186 | 🐛 7 | 🌐 Java | 📅 2016-01-26
+## [LondonEyeLayoutManager](https://github.com/danylovolokh/LondonEyeLayoutManager) ⭐ 1,185 | 🐛 7 | 🌐 Java | 📅 2016-01-26
 
 A Layoutmanager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory<br />
 ![](managerimgs/LondonEyeLayoutManager.gif)
@@ -48,7 +48,7 @@ Scrollable list of items, where current item is centered and can be changed usin
 Full aspect ratio grid LayoutManager for Android's RecyclerView also:[SuitedRecyclerView](https://github.com/asdzheng/SuitedRecyclerView) ⭐ 72 | 🐛 1 | 🌐 Java | 📅 2016-02-17 <br />
 ![](managerimgs/greedo-layout-for-android.png)
 
-## [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager) ⭐ 2,532 | 🐛 30 | 🌐 Java | 📅 2023-05-31
+## [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager) ⭐ 2,531 | 🐛 30 | 🌐 Java | 📅 2023-05-31
 
 仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等。同样效果的还有[CardSwipeLayout
 ](https://github.com/yuqirong/CardSwipeLayout) ⭐ 1,258 | 🐛 24 | 🌐 Java | 📅 2020-01-19 <br />
@@ -76,7 +76,7 @@ A Circle and a zoom layoutManager for android RecyclerView<br />
 Android Expandable LayoutManager for RecyclerView<br />
 ![](managerimgs/ExpandLayoutManager.gif)<br />
 
-## [VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager) ⭐ 1,828 | 🐛 22 | 🌐 Java | 📅 2019-10-03
+## [VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager) ⭐ 1,827 | 🐛 22 | 🌐 Java | 📅 2019-10-03
 
 fade and shrink the head itemView when scrolling.
 ![](https://github.com/xmuSistone/VegaLayoutManager/raw/master/capture.gif) <br /><br /><br />
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
