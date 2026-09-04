@@ -141,7 +141,7 @@ A RecyclerView\.LayoutManager implementation which provides functionality to sho
 
 ![](https://github.com/kapil93/Circular-Layout-Manager/raw/master/app/src/main/assets/clm.gif)
 
-## [RecyclerCoverFlow](https://github.com/ChenLittlePing/RecyclerCoverFlow) ⭐ 843 | 🐛 22 | 🌐 Java | 📅 2020-09-01
+## [RecyclerCoverFlow](https://github.com/ChenLittlePing/RecyclerCoverFlow) ⭐ 842 | 🐛 22 | 🌐 Java | 📅 2020-09-01
 
 <br />
 
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

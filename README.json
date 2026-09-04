@@ -654,7 +654,7 @@
             "open_issues": 22,
             "owner": "ChenLittlePing",
             "repo": "RecyclerCoverFlow",
-            "stars": 843,
+            "stars": 842,
             "topics": [
               "android",
               "coverflow",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:55:35.417Z",
+    "last_updated": "2026-09-04T17:40:44.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
