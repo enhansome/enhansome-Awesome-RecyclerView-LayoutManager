@@ -18,7 +18,7 @@
             "open_issues": 1,
             "owner": "Cleveroad",
             "repo": "FanLayoutManager",
-            "stars": 2044,
+            "stars": 2043,
             "topics": []
           },
           "title": "FanLayoutManager",
@@ -39,7 +39,7 @@
             "open_issues": 26,
             "owner": "Azoft",
             "repo": "CarouselLayoutManager",
-            "stars": 2570,
+            "stars": 2569,
             "topics": []
           },
           "title": "CarouselLayoutManager",
@@ -60,7 +60,7 @@
             "open_issues": 38,
             "owner": "Oleg-Beloy",
             "repo": "ChipsLayoutManager",
-            "stars": 3279,
+            "stars": 3278,
             "topics": [
               "android",
               "layoutmanager",
@@ -88,7 +88,7 @@
             "open_issues": 5,
             "owner": "Chacojack",
             "repo": "HiveLayoutManager",
-            "stars": 621,
+            "stars": 620,
             "topics": []
           },
           "title": "HiveLayoutManager",
@@ -109,7 +109,7 @@
             "open_issues": 194,
             "owner": "alibaba",
             "repo": "vlayout",
-            "stars": 10723,
+            "stars": 10722,
             "topics": [
               "android",
               "layout",
@@ -137,7 +137,7 @@
             "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18297,
+            "stars": 18296,
             "topics": [
               "android",
               "android-library",
@@ -162,7 +162,7 @@
             "open_issues": 7,
             "owner": "danylovolokh",
             "repo": "LondonEyeLayoutManager",
-            "stars": 1185,
+            "stars": 1184,
             "topics": []
           },
           "title": "LondonEyeLayoutManager",
@@ -219,7 +219,7 @@
             "open_issues": 20,
             "owner": "500px",
             "repo": "greedo-layout-for-android",
-            "stars": 1618,
+            "stars": 1617,
             "topics": [
               "android",
               "android-recyclerview",
@@ -248,7 +248,7 @@
             "open_issues": 30,
             "owner": "mcxtzhang",
             "repo": "ZLayoutManager",
-            "stars": 2531,
+            "stars": 2530,
             "topics": [
               "card",
               "cards",
@@ -365,7 +365,7 @@
             "open_issues": 22,
             "owner": "xmuSistone",
             "repo": "VegaLayoutManager",
-            "stars": 1827,
+            "stars": 1826,
             "topics": []
           },
           "title": "VegaLayoutManager",
@@ -515,7 +515,7 @@
             "open_issues": 20,
             "owner": "500px",
             "repo": "greedo-layout-for-android",
-            "stars": 1618,
+            "stars": 1617,
             "topics": [
               "android",
               "android-recyclerview",
@@ -706,7 +706,7 @@
             "open_issues": 66,
             "owner": "ShamylZakariya",
             "repo": "StickyHeaders",
-            "stars": 1392,
+            "stars": 1391,
             "topics": []
           },
           "title": "StickyHeaders",
@@ -769,7 +769,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4973,
+            "stars": 4972,
             "topics": []
           },
           "title": "EchelonLayoutManager",
@@ -790,7 +790,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4973,
+            "stars": 4972,
             "topics": []
           },
           "title": "SkidRightLayoutManager",
@@ -811,7 +811,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4973,
+            "stars": 4972,
             "topics": []
           },
           "title": "SlideLayoutManager",
@@ -832,7 +832,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4973,
+            "stars": 4972,
             "topics": []
           },
           "title": "PickerLayoutManager",
@@ -853,7 +853,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4973,
+            "stars": 4972,
             "topics": []
           },
           "title": "BannerLayoutManager",
@@ -874,7 +874,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4973,
+            "stars": 4972,
             "topics": []
           },
           "title": "ViewPagerLayoutManager",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:18:05.906Z",
+    "last_updated": "2026-09-13T17:29:04.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
