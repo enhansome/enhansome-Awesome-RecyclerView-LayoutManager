@@ -39,7 +39,7 @@
             "open_issues": 26,
             "owner": "Azoft",
             "repo": "CarouselLayoutManager",
-            "stars": 2568,
+            "stars": 2567,
             "topics": []
           },
           "title": "CarouselLayoutManager",
@@ -276,7 +276,7 @@
             "open_issues": 56,
             "owner": "leochuan",
             "repo": "ViewPagerLayoutManager",
-            "stars": 1750,
+            "stars": 1749,
             "topics": []
           },
           "title": "CustomLayoutManager",
@@ -365,7 +365,7 @@
             "open_issues": 22,
             "owner": "xmuSistone",
             "repo": "VegaLayoutManager",
-            "stars": 1826,
+            "stars": 1825,
             "topics": []
           },
           "title": "VegaLayoutManager",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:18:58.641Z",
+    "last_updated": "2026-09-16T18:16:01.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
