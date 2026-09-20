@@ -706,7 +706,7 @@
             "open_issues": 66,
             "owner": "ShamylZakariya",
             "repo": "StickyHeaders",
-            "stars": 1391,
+            "stars": 1390,
             "topics": []
           },
           "title": "StickyHeaders",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:20:33.603Z",
+    "last_updated": "2026-09-20T17:32:34.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
