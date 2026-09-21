@@ -137,7 +137,7 @@
             "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18297,
+            "stars": 18294,
             "topics": [
               "android",
               "android-library",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T17:32:34.661Z",
+    "last_updated": "2026-09-21T19:37:13.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
