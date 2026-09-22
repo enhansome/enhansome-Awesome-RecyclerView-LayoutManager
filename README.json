@@ -109,7 +109,7 @@
             "open_issues": 194,
             "owner": "alibaba",
             "repo": "vlayout",
-            "stars": 10722,
+            "stars": 10721,
             "topics": [
               "android",
               "layout",
@@ -183,7 +183,7 @@
             "open_issues": 44,
             "owner": "yarolegovich",
             "repo": "DiscreteScrollView",
-            "stars": 5767,
+            "stars": 5768,
             "topics": [
               "android",
               "android-development",
@@ -679,7 +679,7 @@
             "open_issues": 2,
             "owner": "CCY0122",
             "repo": "FocusLayoutManager",
-            "stars": 833,
+            "stars": 834,
             "topics": [
               "android",
               "douban",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:37:13.547Z",
+    "last_updated": "2026-09-22T18:10:29.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
