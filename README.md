@@ -7,7 +7,7 @@ RecyclerView-LayoutManager resources
 Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades <br />
 ![](managerimgs/FanLayoutManager.gif)
 
-## [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) ⭐ 2,567 | 🐛 26 | 🌐 Java | 📅 2021-06-02
+## [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) ⭐ 2,566 | 🐛 26 | 🌐 Java | 📅 2021-06-02
 
 Android Carousel LayoutManager for RecyclerView <br />
 ![](managerimgs/CarouselLayoutManager.gif)
@@ -130,7 +130,7 @@ An android recyclerView sticky item view layout manager library <br />
 the library is a loop RecyclerView(expression), can show some effects when display <br />
 ![](https://camo.githubusercontent.com/118c5f6828921f9f7085763d2fe37e7feee5a7ea/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f37326639366362616a773166377971637766306379673230637a306c396e35342e676966)
 
-## [StackLayoutManager](https://github.com/LittleMango/StackLayoutManager) ⭐ 292 | 🐛 14 | 🌐 Kotlin | 📅 2021-08-31
+## [StackLayoutManager](https://github.com/LittleMango/StackLayoutManager) ⭐ 291 | 🐛 14 | 🌐 Kotlin | 📅 2021-08-31
 
 A RecyclerView\.LayoutManager implementation which provides functionality to show a group of stack view. <br />
 ![](https://github.com/LittleMango/StackLayoutManager/raw/master/gif/sample1.gif)
@@ -162,32 +162,32 @@ Adapter and LayoutManager for Android RecyclerView which enables sticky header p
 An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotlin. <br />
 ![](https://github.com/Spikeysanju/ZoomRecylerLayout/raw/master/horizontal_scroll.gif)
 
-## [EchelonLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,972 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [EchelonLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,970 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img1.gif)
 
-## [SkidRightLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,972 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [SkidRightLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,970 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img2.gif)
 
-## [SlideLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,972 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [SlideLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,970 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img3.gif)
 
-## [PickerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,972 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [PickerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,970 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img4.gif)
 
-## [BannerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,972 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [BannerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,970 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img5.gif)
 
-## [ViewPagerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,972 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [ViewPagerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,970 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img6.gif)
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
