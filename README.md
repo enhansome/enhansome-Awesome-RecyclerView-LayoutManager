@@ -7,7 +7,7 @@ RecyclerView-LayoutManager resources
 Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades <br />
 ![](managerimgs/FanLayoutManager.gif)
 
-## [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) ⭐ 2,566 | 🐛 26 | 🌐 Java | 📅 2021-06-02
+## [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) ⭐ 2,565 | 🐛 26 | 🌐 Java | 📅 2021-06-02
 
 Android Carousel LayoutManager for RecyclerView <br />
 ![](managerimgs/CarouselLayoutManager.gif)
@@ -66,7 +66,7 @@ A Circle and a zoom layoutManager for android RecyclerView<br />
 实现一个流动布局，可以用作文章展示，也可以用作标签展示，并且可以很方便地为其添加布局动画，示例代码里添加了拖拽插入的动画，如效果图。<br />
 ![](managerimgs/AssembleEssay.gif)
 
-## [GalleryLayoutManager](https://github.com/BCsl/GalleryLayoutManager) ⭐ 1,010 | 🐛 26 | 🌐 Java | 📅 2022-08-23
+## [GalleryLayoutManager](https://github.com/BCsl/GalleryLayoutManager) ⭐ 1,011 | 🐛 26 | 🌐 Java | 📅 2022-08-23
 
 实现 Android 中 Gallery 或者 ViewPager 控件的效果，支持垂直和水平两个方向，支持 RecycleView 的试图回收机制。<br />
 ![](managerimgs/GalleryLayoutManager.gif)
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
