@@ -39,7 +39,7 @@
             "open_issues": 26,
             "owner": "Azoft",
             "repo": "CarouselLayoutManager",
-            "stars": 2565,
+            "stars": 2566,
             "topics": []
           },
           "title": "CarouselLayoutManager",
@@ -60,7 +60,7 @@
             "open_issues": 38,
             "owner": "Oleg-Beloy",
             "repo": "ChipsLayoutManager",
-            "stars": 3278,
+            "stars": 3279,
             "topics": [
               "android",
               "layoutmanager",
@@ -109,7 +109,7 @@
             "open_issues": 194,
             "owner": "alibaba",
             "repo": "vlayout",
-            "stars": 10720,
+            "stars": 10721,
             "topics": [
               "android",
               "layout",
@@ -137,7 +137,7 @@
             "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18289,
+            "stars": 18288,
             "topics": [
               "android",
               "android-library",
@@ -219,7 +219,7 @@
             "open_issues": 20,
             "owner": "500px",
             "repo": "greedo-layout-for-android",
-            "stars": 1617,
+            "stars": 1618,
             "topics": [
               "android",
               "android-recyclerview",
@@ -515,7 +515,7 @@
             "open_issues": 20,
             "owner": "500px",
             "repo": "greedo-layout-for-android",
-            "stars": 1617,
+            "stars": 1618,
             "topics": [
               "android",
               "android-recyclerview",
@@ -706,7 +706,7 @@
             "open_issues": 66,
             "owner": "ShamylZakariya",
             "repo": "StickyHeaders",
-            "stars": 1390,
+            "stars": 1391,
             "topics": []
           },
           "title": "StickyHeaders",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:02:21.889Z",
+    "last_updated": "2026-10-08T20:00:55.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
@@ -897,7 +897,7 @@
       "open_issues": 4,
       "owner": "jiang111",
       "repo": "Awesome-RecyclerView-LayoutManager",
-      "stars": 1128,
+      "stars": 1129,
       "topics": [
         "android",
         "awesome",

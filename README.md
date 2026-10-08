@@ -7,12 +7,12 @@ RecyclerView-LayoutManager resources
 Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades <br />
 ![](managerimgs/FanLayoutManager.gif)
 
-## [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) ⭐ 2,565 | 🐛 26 | 🌐 Java | 📅 2021-06-02
+## [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) ⭐ 2,566 | 🐛 26 | 🌐 Java | 📅 2021-06-02
 
 Android Carousel LayoutManager for RecyclerView <br />
 ![](managerimgs/CarouselLayoutManager.gif)
 
-## [ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager) ⭐ 3,278 | 🐛 38 | 🌐 Java | 📅 2020-01-17
+## [ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager) ⭐ 3,279 | 🐛 38 | 🌐 Java | 📅 2020-01-17
 
 A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features<br />
 ![](managerimgs/ChipsLayoutManager.gif)
@@ -43,7 +43,7 @@ A Layoutmanager that must be used with RecyclerView. When list is scrolled views
 Scrollable list of items, where current item is centered and can be changed using swipes<br />
 ![](managerimgs/DiscreteScrollView.gif)
 
-## [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) ⭐ 1,617 | 🐛 20 | 🌐 Java | 📅 2022-06-21
+## [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) ⭐ 1,618 | 🐛 20 | 🌐 Java | 📅 2022-06-21
 
 Full aspect ratio grid LayoutManager for Android's RecyclerView also:[SuitedRecyclerView](https://github.com/asdzheng/SuitedRecyclerView) ⭐ 72 | 🐛 1 | 🌐 Java | 📅 2016-02-17 <br />
 ![](managerimgs/greedo-layout-for-android.png)
@@ -51,7 +51,7 @@ Full aspect ratio grid LayoutManager for Android's RecyclerView also:[SuitedRecy
 ## [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager) ⭐ 2,527 | 🐛 30 | 🌐 Java | 📅 2023-05-31
 
 仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等。同样效果的还有[CardSwipeLayout
-](https://github.com/yuqirong/CardSwipeLayout) ⭐ 1,259 | 🐛 24 | 🌐 Java | 📅 2020-01-19 <br />
+](https://github.com/yuqirong/CardSwipeLayout) ⭐ 1,260 | 🐛 24 | 🌐 Java | 📅 2020-01-19 <br />
 ![](managerimgs/ZLayoutManager.gif)
 ![](managerimgs/ZLayoutManager2.gif)
 ![](managerimgs/ZLayoutManager3.gif)
@@ -110,7 +110,7 @@ customized layoutmanager,let item pile up like stackview/类似最美有物卡�
 ![](https://github.com/HirayClay/StackLayoutManager/raw/master/static/hrreverse.gif)
 ![](https://github.com/HirayClay/StackLayoutManager/raw/master/static/VerticallSLM.gif)
 
-## [Greedo Layout for Android](https://github.com/500px/greedo-layout-for-android) ⭐ 1,617 | 🐛 20 | 🌐 Java | 📅 2022-06-21
+## [Greedo Layout for Android](https://github.com/500px/greedo-layout-for-android) ⭐ 1,618 | 🐛 20 | 🌐 Java | 📅 2022-06-21
 
 Full aspect ratio grid LayoutManager for Android's RecyclerView <br />
 ![](https://github.com/500px/greedo-layout-for-android/raw/master/screenshot.png)
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
