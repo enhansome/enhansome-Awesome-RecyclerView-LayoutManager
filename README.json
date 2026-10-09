@@ -39,7 +39,7 @@
             "open_issues": 26,
             "owner": "Azoft",
             "repo": "CarouselLayoutManager",
-            "stars": 2566,
+            "stars": 2565,
             "topics": []
           },
           "title": "CarouselLayoutManager",
@@ -109,7 +109,7 @@
             "open_issues": 194,
             "owner": "alibaba",
             "repo": "vlayout",
-            "stars": 10721,
+            "stars": 10719,
             "topics": [
               "android",
               "layout",
@@ -137,7 +137,7 @@
             "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18288,
+            "stars": 18287,
             "topics": [
               "android",
               "android-library",
@@ -248,7 +248,7 @@
             "open_issues": 30,
             "owner": "mcxtzhang",
             "repo": "ZLayoutManager",
-            "stars": 2527,
+            "stars": 2526,
             "topics": [
               "card",
               "cards",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:00:55.720Z",
+    "last_updated": "2026-10-09T19:35:51.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
