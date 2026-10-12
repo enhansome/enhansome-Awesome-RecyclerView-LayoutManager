@@ -109,7 +109,7 @@
             "open_issues": 194,
             "owner": "alibaba",
             "repo": "vlayout",
-            "stars": 10719,
+            "stars": 10720,
             "topics": [
               "android",
               "layout",
@@ -137,7 +137,7 @@
             "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18287,
+            "stars": 18288,
             "topics": [
               "android",
               "android-library",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:03:30.513Z",
+    "last_updated": "2026-10-12T22:10:50.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
