@@ -18,7 +18,7 @@
             "open_issues": 1,
             "owner": "Cleveroad",
             "repo": "FanLayoutManager",
-            "stars": 2042,
+            "stars": 2041,
             "topics": []
           },
           "title": "FanLayoutManager",
@@ -60,7 +60,7 @@
             "open_issues": 38,
             "owner": "Oleg-Beloy",
             "repo": "ChipsLayoutManager",
-            "stars": 3279,
+            "stars": 3278,
             "topics": [
               "android",
               "layoutmanager",
@@ -109,7 +109,7 @@
             "open_issues": 194,
             "owner": "alibaba",
             "repo": "vlayout",
-            "stars": 10720,
+            "stars": 10719,
             "topics": [
               "android",
               "layout",
@@ -276,7 +276,7 @@
             "open_issues": 56,
             "owner": "leochuan",
             "repo": "ViewPagerLayoutManager",
-            "stars": 1749,
+            "stars": 1748,
             "topics": []
           },
           "title": "CustomLayoutManager",
@@ -297,7 +297,7 @@
             "open_issues": 2,
             "owner": "rantianhua",
             "repo": "AssembleEssay",
-            "stars": 130,
+            "stars": 129,
             "topics": []
           },
           "title": "AssembleEssay",
@@ -591,7 +591,7 @@
             "open_issues": 4,
             "owner": "kHRYSTAL",
             "repo": "CircleRecyclerView",
-            "stars": 711,
+            "stars": 710,
             "topics": []
           },
           "title": "CircleRecyclerView",
@@ -727,7 +727,7 @@
             "open_issues": 2,
             "owner": "Spikeysanju",
             "repo": "ZoomRecylerLayout",
-            "stars": 808,
+            "stars": 809,
             "topics": [
               "android",
               "android-app",
@@ -769,7 +769,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4970,
+            "stars": 4971,
             "topics": []
           },
           "title": "EchelonLayoutManager",
@@ -790,7 +790,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4970,
+            "stars": 4971,
             "topics": []
           },
           "title": "SkidRightLayoutManager",
@@ -811,7 +811,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4970,
+            "stars": 4971,
             "topics": []
           },
           "title": "SlideLayoutManager",
@@ -832,7 +832,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4970,
+            "stars": 4971,
             "topics": []
           },
           "title": "PickerLayoutManager",
@@ -853,7 +853,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4970,
+            "stars": 4971,
             "topics": []
           },
           "title": "BannerLayoutManager",
@@ -874,7 +874,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4970,
+            "stars": 4971,
             "topics": []
           },
           "title": "ViewPagerLayoutManager",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:10:50.503Z",
+    "last_updated": "2026-10-13T20:17:26.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
