@@ -60,7 +60,7 @@
             "open_issues": 38,
             "owner": "Oleg-Beloy",
             "repo": "ChipsLayoutManager",
-            "stars": 3278,
+            "stars": 3277,
             "topics": [
               "android",
               "layoutmanager",
@@ -109,7 +109,7 @@
             "open_issues": 194,
             "owner": "alibaba",
             "repo": "vlayout",
-            "stars": 10716,
+            "stars": 10715,
             "topics": [
               "android",
               "layout",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:22:34.446Z",
+    "last_updated": "2026-10-18T17:26:55.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
