@@ -12,7 +12,7 @@ Using Fan Layout Manager you can implement the horizontal list, the items of whi
 Android Carousel LayoutManager for RecyclerView <br />
 ![](managerimgs/CarouselLayoutManager.gif)
 
-## [ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager) ⭐ 3,277 | 🐛 38 | 🌐 Java | 📅 2020-01-17
+## [ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager) ⭐ 3,276 | 🐛 38 | 🌐 Java | 📅 2020-01-17
 
 A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features<br />
 ![](managerimgs/ChipsLayoutManager.gif)
@@ -51,7 +51,7 @@ Full aspect ratio grid LayoutManager for Android's RecyclerView also:[SuitedRecy
 ## [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager) ⭐ 2,527 | 🐛 30 | 🌐 Java | 📅 2023-05-31
 
 仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等。同样效果的还有[CardSwipeLayout
-](https://github.com/yuqirong/CardSwipeLayout) ⭐ 1,260 | 🐛 24 | 🌐 Java | 📅 2020-01-19 <br />
+](https://github.com/yuqirong/CardSwipeLayout) ⭐ 1,259 | 🐛 24 | 🌐 Java | 📅 2020-01-19 <br />
 ![](managerimgs/ZLayoutManager.gif)
 ![](managerimgs/ZLayoutManager2.gif)
 ![](managerimgs/ZLayoutManager3.gif)
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
