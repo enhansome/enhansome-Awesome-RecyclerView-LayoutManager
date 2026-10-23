@@ -38,7 +38,7 @@ FlexboxLayout is a library project which brings the similar capabilities of [CSS
 A Layoutmanager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory<br />
 ![](managerimgs/LondonEyeLayoutManager.gif)
 
-## [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) ⭐ 5,769 | 🐛 44 | 🌐 Java | 📅 2024-08-19
+## [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) ⭐ 5,768 | 🐛 44 | 🌐 Java | 📅 2024-08-19
 
 Scrollable list of items, where current item is centered and can be changed using swipes<br />
 ![](managerimgs/DiscreteScrollView.gif)
@@ -76,7 +76,7 @@ A Circle and a zoom layoutManager for android RecyclerView<br />
 Android Expandable LayoutManager for RecyclerView<br />
 ![](managerimgs/ExpandLayoutManager.gif)<br />
 
-## [VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager) ⭐ 1,825 | 🐛 22 | 🌐 Java | 📅 2019-10-03
+## [VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager) ⭐ 1,824 | 🐛 22 | 🌐 Java | 📅 2019-10-03
 
 fade and shrink the head itemView when scrolling.
 ![](https://github.com/xmuSistone/VegaLayoutManager/raw/master/capture.gif) <br /><br /><br />
@@ -125,7 +125,7 @@ Simple in usage Recycler Layout Manager with circular item positioning. <br />
 An android recyclerView sticky item view layout manager library <br />
 ![](https://github.com/qiujayen/sticky-layoutmanager/raw/master/images/Screenshot_1512376704.png)
 
-## [CircleRecyclerView](https://github.com/kHRYSTAL/CircleRecyclerView) ⭐ 710 | 🐛 4 | 🌐 Java | 📅 2023-06-08
+## [CircleRecyclerView](https://github.com/kHRYSTAL/CircleRecyclerView) ⭐ 709 | 🐛 4 | 🌐 Java | 📅 2023-06-08
 
 the library is a loop RecyclerView(expression), can show some effects when display <br />
 ![](https://camo.githubusercontent.com/118c5f6828921f9f7085763d2fe37e7feee5a7ea/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f37326639366362616a773166377971637766306379673230637a306c396e35342e676966)
@@ -157,7 +157,7 @@ A Horizontal / vertical scroll RecyclerView-LayoutManager with focus item. <br /
 Adapter and LayoutManager for Android RecyclerView which enables sticky header positioning. <br />
 ![](https://github.com/ShamylZakariya/StickyHeaders/raw/master/readme-assets/video-addressbook.gif)
 
-## [ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout) ⭐ 808 | 🐛 2 | 🌐 Kotlin | 📅 2020-07-22
+## [ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout) ⭐ 807 | 🐛 2 | 🌐 Kotlin | 📅 2020-07-22
 
 An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotlin. <br />
 ![](https://github.com/Spikeysanju/ZoomRecylerLayout/raw/master/horizontal_scroll.gif)
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
