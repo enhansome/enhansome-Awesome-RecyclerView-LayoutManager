@@ -109,7 +109,7 @@
             "open_issues": 194,
             "owner": "alibaba",
             "repo": "vlayout",
-            "stars": 10713,
+            "stars": 10714,
             "topics": [
               "android",
               "layout",
@@ -137,7 +137,7 @@
             "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18284,
+            "stars": 18285,
             "topics": [
               "android",
               "android-library",
@@ -183,7 +183,7 @@
             "open_issues": 44,
             "owner": "yarolegovich",
             "repo": "DiscreteScrollView",
-            "stars": 5768,
+            "stars": 5769,
             "topics": [
               "android",
               "android-development",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:30:08.056Z",
+    "last_updated": "2026-10-25T17:42:45.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
