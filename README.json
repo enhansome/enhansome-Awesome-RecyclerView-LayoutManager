@@ -60,7 +60,7 @@
             "open_issues": 38,
             "owner": "Oleg-Beloy",
             "repo": "ChipsLayoutManager",
-            "stars": 3276,
+            "stars": 3275,
             "topics": [
               "android",
               "layoutmanager",
@@ -109,7 +109,7 @@
             "open_issues": 194,
             "owner": "alibaba",
             "repo": "vlayout",
-            "stars": 10714,
+            "stars": 10713,
             "topics": [
               "android",
               "layout",
@@ -248,7 +248,7 @@
             "open_issues": 30,
             "owner": "mcxtzhang",
             "repo": "ZLayoutManager",
-            "stars": 2526,
+            "stars": 2525,
             "topics": [
               "card",
               "cards",
@@ -654,7 +654,7 @@
             "open_issues": 22,
             "owner": "ChenLittlePing",
             "repo": "RecyclerCoverFlow",
-            "stars": 842,
+            "stars": 841,
             "topics": [
               "android",
               "coverflow",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:01:46.847Z",
+    "last_updated": "2026-10-27T19:30:28.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
