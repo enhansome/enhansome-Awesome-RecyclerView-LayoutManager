@@ -109,7 +109,7 @@
             "open_issues": 194,
             "owner": "alibaba",
             "repo": "vlayout",
-            "stars": 10713,
+            "stars": 10712,
             "topics": [
               "android",
               "layout",
@@ -162,7 +162,7 @@
             "open_issues": 7,
             "owner": "danylovolokh",
             "repo": "LondonEyeLayoutManager",
-            "stars": 1185,
+            "stars": 1186,
             "topics": []
           },
           "title": "LondonEyeLayoutManager",
@@ -183,7 +183,7 @@
             "open_issues": 44,
             "owner": "yarolegovich",
             "repo": "DiscreteScrollView",
-            "stars": 5769,
+            "stars": 5770,
             "topics": [
               "android",
               "android-development",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:30:28.291Z",
+    "last_updated": "2026-10-28T19:42:09.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
