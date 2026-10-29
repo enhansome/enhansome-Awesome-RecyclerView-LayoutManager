@@ -219,7 +219,7 @@
             "open_issues": 20,
             "owner": "500px",
             "repo": "greedo-layout-for-android",
-            "stars": 1618,
+            "stars": 1619,
             "topics": [
               "android",
               "android-recyclerview",
@@ -515,7 +515,7 @@
             "open_issues": 20,
             "owner": "500px",
             "repo": "greedo-layout-for-android",
-            "stars": 1618,
+            "stars": 1619,
             "topics": [
               "android",
               "android-recyclerview",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:42:09.315Z",
+    "last_updated": "2026-10-29T19:43:57.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
