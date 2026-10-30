@@ -248,7 +248,7 @@
             "open_issues": 30,
             "owner": "mcxtzhang",
             "repo": "ZLayoutManager",
-            "stars": 2525,
+            "stars": 2524,
             "topics": [
               "card",
               "cards",
@@ -276,7 +276,7 @@
             "open_issues": 56,
             "owner": "leochuan",
             "repo": "ViewPagerLayoutManager",
-            "stars": 1749,
+            "stars": 1748,
             "topics": []
           },
           "title": "CustomLayoutManager",
@@ -769,7 +769,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4972,
+            "stars": 4973,
             "topics": []
           },
           "title": "EchelonLayoutManager",
@@ -790,7 +790,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4972,
+            "stars": 4973,
             "topics": []
           },
           "title": "SkidRightLayoutManager",
@@ -811,7 +811,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4972,
+            "stars": 4973,
             "topics": []
           },
           "title": "SlideLayoutManager",
@@ -832,7 +832,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4972,
+            "stars": 4973,
             "topics": []
           },
           "title": "PickerLayoutManager",
@@ -853,7 +853,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4972,
+            "stars": 4973,
             "topics": []
           },
           "title": "BannerLayoutManager",
@@ -874,7 +874,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4972,
+            "stars": 4973,
             "topics": []
           },
           "title": "ViewPagerLayoutManager",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:43:57.575Z",
+    "last_updated": "2026-10-30T19:31:55.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",

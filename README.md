@@ -48,7 +48,7 @@ Scrollable list of items, where current item is centered and can be changed usin
 Full aspect ratio grid LayoutManager for Android's RecyclerView also:[SuitedRecyclerView](https://github.com/asdzheng/SuitedRecyclerView) ⭐ 72 | 🐛 1 | 🌐 Java | 📅 2016-02-17 <br />
 ![](managerimgs/greedo-layout-for-android.png)
 
-## [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager) ⭐ 2,525 | 🐛 30 | 🌐 Java | 📅 2023-05-31
+## [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager) ⭐ 2,524 | 🐛 30 | 🌐 Java | 📅 2023-05-31
 
 仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等。同样效果的还有[CardSwipeLayout
 ](https://github.com/yuqirong/CardSwipeLayout) ⭐ 1,259 | 🐛 24 | 🌐 Java | 📅 2020-01-19 <br />
@@ -162,32 +162,32 @@ Adapter and LayoutManager for Android RecyclerView which enables sticky header p
 An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotlin. <br />
 ![](https://github.com/Spikeysanju/ZoomRecylerLayout/raw/master/horizontal_scroll.gif)
 
-## [EchelonLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,972 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [EchelonLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,973 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img1.gif)
 
-## [SkidRightLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,972 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [SkidRightLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,973 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img2.gif)
 
-## [SlideLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,972 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [SlideLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,973 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img3.gif)
 
-## [PickerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,972 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [PickerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,973 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img4.gif)
 
-## [BannerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,972 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [BannerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,973 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img5.gif)
 
-## [ViewPagerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,972 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [ViewPagerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,973 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img6.gif)
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
