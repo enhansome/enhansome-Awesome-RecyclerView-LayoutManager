@@ -104,7 +104,7 @@ A carousel layout manager for RecyclerView<br />
 
 ![](https://github.com/cdflynn/turn-layout-manager/raw/master/app/img/turn_demo.gif?raw=true)
 
-## [StackLayoutManager](https://github.com/HirayClay/StackLayoutManager) ⭐ 460 | 🐛 10 | 🌐 Java | 📅 2021-04-23
+## [StackLayoutManager](https://github.com/HirayClay/StackLayoutManager) ⭐ 461 | 🐛 10 | 🌐 Java | 📅 2021-04-23
 
 customized layoutmanager,let item pile up like stackview/类似最美有物卡片堆叠效果 <br />
 ![](https://github.com/HirayClay/StackLayoutManager/raw/master/static/hrreverse.gif)
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
