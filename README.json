@@ -18,7 +18,7 @@
             "open_issues": 1,
             "owner": "Cleveroad",
             "repo": "FanLayoutManager",
-            "stars": 2042,
+            "stars": 2041,
             "topics": []
           },
           "title": "FanLayoutManager",
@@ -60,7 +60,7 @@
             "open_issues": 38,
             "owner": "Oleg-Beloy",
             "repo": "ChipsLayoutManager",
-            "stars": 3274,
+            "stars": 3273,
             "topics": [
               "android",
               "layoutmanager",
@@ -88,7 +88,7 @@
             "open_issues": 5,
             "owner": "Chacojack",
             "repo": "HiveLayoutManager",
-            "stars": 620,
+            "stars": 619,
             "topics": []
           },
           "title": "HiveLayoutManager",
@@ -109,7 +109,7 @@
             "open_issues": 194,
             "owner": "alibaba",
             "repo": "vlayout",
-            "stars": 10713,
+            "stars": 10711,
             "topics": [
               "android",
               "layout",
@@ -137,7 +137,7 @@
             "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18281,
+            "stars": 18277,
             "topics": [
               "android",
               "android-library",
@@ -183,7 +183,7 @@
             "open_issues": 44,
             "owner": "yarolegovich",
             "repo": "DiscreteScrollView",
-            "stars": 5770,
+            "stars": 5768,
             "topics": [
               "android",
               "android-development",
@@ -248,7 +248,7 @@
             "open_issues": 30,
             "owner": "mcxtzhang",
             "repo": "ZLayoutManager",
-            "stars": 2523,
+            "stars": 2522,
             "topics": [
               "card",
               "cards",
@@ -276,7 +276,7 @@
             "open_issues": 56,
             "owner": "leochuan",
             "repo": "ViewPagerLayoutManager",
-            "stars": 1747,
+            "stars": 1746,
             "topics": []
           },
           "title": "CustomLayoutManager",
@@ -459,7 +459,7 @@
             "open_issues": 1,
             "owner": "cdflynn",
             "repo": "turn-layout-manager",
-            "stars": 947,
+            "stars": 945,
             "topics": [
               "android",
               "android-library",
@@ -769,7 +769,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4972,
+            "stars": 4971,
             "topics": []
           },
           "title": "EchelonLayoutManager",
@@ -790,7 +790,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4972,
+            "stars": 4971,
             "topics": []
           },
           "title": "SkidRightLayoutManager",
@@ -811,7 +811,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4972,
+            "stars": 4971,
             "topics": []
           },
           "title": "SlideLayoutManager",
@@ -832,7 +832,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4972,
+            "stars": 4971,
             "topics": []
           },
           "title": "PickerLayoutManager",
@@ -853,7 +853,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4972,
+            "stars": 4971,
             "topics": []
           },
           "title": "BannerLayoutManager",
@@ -874,7 +874,7 @@
             "open_issues": 41,
             "owner": "DingMouRen",
             "repo": "LayoutManagerGroup",
-            "stars": 4972,
+            "stars": 4971,
             "topics": []
           },
           "title": "ViewPagerLayoutManager",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:08:30.893Z",
+    "last_updated": "2026-11-06T20:29:10.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
