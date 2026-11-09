@@ -18,7 +18,7 @@
             "open_issues": 1,
             "owner": "Cleveroad",
             "repo": "FanLayoutManager",
-            "stars": 2041,
+            "stars": 2040,
             "topics": []
           },
           "title": "FanLayoutManager",
@@ -60,7 +60,7 @@
             "open_issues": 38,
             "owner": "Oleg-Beloy",
             "repo": "ChipsLayoutManager",
-            "stars": 3274,
+            "stars": 3273,
             "topics": [
               "android",
               "layoutmanager",
@@ -109,7 +109,7 @@
             "open_issues": 194,
             "owner": "alibaba",
             "repo": "vlayout",
-            "stars": 10711,
+            "stars": 10710,
             "topics": [
               "android",
               "layout",
@@ -137,7 +137,7 @@
             "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18276,
+            "stars": 18275,
             "topics": [
               "android",
               "android-library",
@@ -183,7 +183,7 @@
             "open_issues": 44,
             "owner": "yarolegovich",
             "repo": "DiscreteScrollView",
-            "stars": 5768,
+            "stars": 5767,
             "topics": [
               "android",
               "android-development",
@@ -248,7 +248,7 @@
             "open_issues": 30,
             "owner": "mcxtzhang",
             "repo": "ZLayoutManager",
-            "stars": 2522,
+            "stars": 2521,
             "topics": [
               "card",
               "cards",
@@ -432,7 +432,7 @@
             "open_issues": 1,
             "owner": "MoyuruAizawa",
             "repo": "TimetableLayout",
-            "stars": 776,
+            "stars": 777,
             "topics": [
               "android",
               "android-library",
@@ -679,7 +679,7 @@
             "open_issues": 2,
             "owner": "CCY0122",
             "repo": "FocusLayoutManager",
-            "stars": 834,
+            "stars": 833,
             "topics": [
               "android",
               "douban",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:55:01.431Z",
+    "last_updated": "2026-11-09T23:29:08.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",

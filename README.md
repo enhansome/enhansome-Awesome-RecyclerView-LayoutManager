@@ -2,7 +2,7 @@
 
 RecyclerView-LayoutManager resources
 
-## [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager) ⭐ 2,041 | 🐛 1 | 🌐 Java | 📅 2017-08-09
+## [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager) ⭐ 2,040 | 🐛 1 | 🌐 Java | 📅 2017-08-09
 
 Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades <br />
 ![](managerimgs/FanLayoutManager.gif)
@@ -12,7 +12,7 @@ Using Fan Layout Manager you can implement the horizontal list, the items of whi
 Android Carousel LayoutManager for RecyclerView <br />
 ![](managerimgs/CarouselLayoutManager.gif)
 
-## [ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager) ⭐ 3,274 | 🐛 38 | 🌐 Java | 📅 2020-01-17
+## [ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager) ⭐ 3,273 | 🐛 38 | 🌐 Java | 📅 2020-01-17
 
 A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features<br />
 ![](managerimgs/ChipsLayoutManager.gif)
@@ -38,7 +38,7 @@ FlexboxLayout is a library project which brings the similar capabilities of [CSS
 A Layoutmanager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory<br />
 ![](managerimgs/LondonEyeLayoutManager.gif)
 
-## [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) ⭐ 5,768 | 🐛 44 | 🌐 Java | 📅 2024-08-19
+## [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) ⭐ 5,767 | 🐛 44 | 🌐 Java | 📅 2024-08-19
 
 Scrollable list of items, where current item is centered and can be changed using swipes<br />
 ![](managerimgs/DiscreteScrollView.gif)
@@ -48,7 +48,7 @@ Scrollable list of items, where current item is centered and can be changed usin
 Full aspect ratio grid LayoutManager for Android's RecyclerView also:[SuitedRecyclerView](https://github.com/asdzheng/SuitedRecyclerView) ⭐ 72 | 🐛 1 | 🌐 Java | 📅 2016-02-17 <br />
 ![](managerimgs/greedo-layout-for-android.png)
 
-## [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager) ⭐ 2,522 | 🐛 30 | 🌐 Java | 📅 2023-05-31
+## [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager) ⭐ 2,521 | 🐛 30 | 🌐 Java | 📅 2023-05-31
 
 仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等。同样效果的还有[CardSwipeLayout
 ](https://github.com/yuqirong/CardSwipeLayout) ⭐ 1,259 | 🐛 24 | 🌐 Java | 📅 2020-01-19 <br />
@@ -92,7 +92,7 @@ This project is the movement of a new card type UI for Android <br />
 
 ![](https://github.com/amyu/StackCardLayoutManager/raw/master/sc/screen.gif)
 
-## [TimetableLayout](https://github.com/MoyuruAizawa/TimetableLayout) ⭐ 776 | 🐛 1 | 🌐 Kotlin | 📅 2025-07-06
+## [TimetableLayout](https://github.com/MoyuruAizawa/TimetableLayout) ⭐ 777 | 🐛 1 | 🌐 Kotlin | 📅 2025-07-06
 
 TimetableLayout is a RecyclerView\.LayoutManager to display the timetable for Android.<br />
 
@@ -147,7 +147,7 @@ A RecyclerView\.LayoutManager implementation which provides functionality to sho
 
 ![](https://github.com/ChenLittlePing/RecyclerCoverFlow/raw/master/gif/demo.gif)
 
-## [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager) ⭐ 834 | 🐛 2 | 🌐 Java | 📅 2023-03-02
+## [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager) ⭐ 833 | 🐛 2 | 🌐 Java | 📅 2023-03-02
 
 A Horizontal / vertical scroll RecyclerView-LayoutManager with focus item. <br />
 ![](https://github.com/CCY0122/FocusLayoutManager/blob/master/pic/gif_hor_2.gif)
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
