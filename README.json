@@ -276,7 +276,7 @@
             "open_issues": 56,
             "owner": "leochuan",
             "repo": "ViewPagerLayoutManager",
-            "stars": 1746,
+            "stars": 1745,
             "topics": []
           },
           "title": "CustomLayoutManager",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:29:08.749Z",
+    "last_updated": "2026-11-10T20:55:41.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
