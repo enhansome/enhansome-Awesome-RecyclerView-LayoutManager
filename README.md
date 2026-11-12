@@ -51,7 +51,7 @@ Full aspect ratio grid LayoutManager for Android's RecyclerView also:[SuitedRecy
 ## [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager) ⭐ 2,521 | 🐛 30 | 🌐 Java | 📅 2023-05-31
 
 仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等。同样效果的还有[CardSwipeLayout
-](https://github.com/yuqirong/CardSwipeLayout) ⭐ 1,259 | 🐛 24 | 🌐 Java | 📅 2020-01-19 <br />
+](https://github.com/yuqirong/CardSwipeLayout) ⭐ 1,258 | 🐛 24 | 🌐 Java | 📅 2020-01-19 <br />
 ![](managerimgs/ZLayoutManager.gif)
 ![](managerimgs/ZLayoutManager2.gif)
 ![](managerimgs/ZLayoutManager3.gif)
@@ -104,7 +104,7 @@ A carousel layout manager for RecyclerView<br />
 
 ![](https://github.com/cdflynn/turn-layout-manager/raw/master/app/img/turn_demo.gif?raw=true)
 
-## [StackLayoutManager](https://github.com/HirayClay/StackLayoutManager) ⭐ 461 | 🐛 10 | 🌐 Java | 📅 2021-04-23
+## [StackLayoutManager](https://github.com/HirayClay/StackLayoutManager) ⭐ 460 | 🐛 10 | 🌐 Java | 📅 2021-04-23
 
 customized layoutmanager,let item pile up like stackview/类似最美有物卡片堆叠效果 <br />
 ![](https://github.com/HirayClay/StackLayoutManager/raw/master/static/hrreverse.gif)
@@ -157,37 +157,37 @@ A Horizontal / vertical scroll RecyclerView-LayoutManager with focus item. <br /
 Adapter and LayoutManager for Android RecyclerView which enables sticky header positioning. <br />
 ![](https://github.com/ShamylZakariya/StickyHeaders/raw/master/readme-assets/video-addressbook.gif)
 
-## [ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout) ⭐ 806 | 🐛 2 | 🌐 Kotlin | 📅 2020-07-22
+## [ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout) ⭐ 805 | 🐛 2 | 🌐 Kotlin | 📅 2020-07-22
 
 An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotlin. <br />
 ![](https://github.com/Spikeysanju/ZoomRecylerLayout/raw/master/horizontal_scroll.gif)
 
-## [EchelonLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,971 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [EchelonLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,970 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img1.gif)
 
-## [SkidRightLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,971 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [SkidRightLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,970 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img2.gif)
 
-## [SlideLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,971 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [SlideLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,970 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img3.gif)
 
-## [PickerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,971 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [PickerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,970 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img4.gif)
 
-## [BannerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,971 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [BannerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,970 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img5.gif)
 
-## [ViewPagerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,971 | 🐛 41 | 🌐 Java | 📅 2023-10-11
+## [ViewPagerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup) ⭐ 4,970 | 🐛 41 | 🌐 Java | 📅 2023-10-11
 
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager) <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img6.gif)
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
