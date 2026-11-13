@@ -38,12 +38,12 @@ FlexboxLayout is a library project which brings the similar capabilities of [CSS
 A Layoutmanager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory<br />
 ![](managerimgs/LondonEyeLayoutManager.gif)
 
-## [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) ⭐ 5,767 | 🐛 44 | 🌐 Java | 📅 2024-08-19
+## [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) ⭐ 5,766 | 🐛 44 | 🌐 Java | 📅 2024-08-19
 
 Scrollable list of items, where current item is centered and can be changed using swipes<br />
 ![](managerimgs/DiscreteScrollView.gif)
 
-## [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) ⭐ 1,619 | 🐛 20 | 🌐 Java | 📅 2022-06-21
+## [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) ⭐ 1,618 | 🐛 20 | 🌐 Java | 📅 2022-06-21
 
 Full aspect ratio grid LayoutManager for Android's RecyclerView also:[SuitedRecyclerView](https://github.com/asdzheng/SuitedRecyclerView) ⭐ 72 | 🐛 1 | 🌐 Java | 📅 2016-02-17 <br />
 ![](managerimgs/greedo-layout-for-android.png)
@@ -81,7 +81,7 @@ Android Expandable LayoutManager for RecyclerView<br />
 fade and shrink the head itemView when scrolling.
 ![](https://github.com/xmuSistone/VegaLayoutManager/raw/master/capture.gif) <br /><br /><br />
 
-## [flowlayoutmanager](https://github.com/xiaofeng-han/AndroidLibs/tree/master/flowlayoutmanager) ⭐ 183 | 🐛 16 | 🌐 Java | 📅 2018-05-28
+## [flowlayoutmanager](https://github.com/xiaofeng-han/AndroidLibs/tree/master/flowlayoutmanager) ⭐ 182 | 🐛 16 | 🌐 Java | 📅 2018-05-28
 
 FlowLayoutManager is a layoutManager that works with Android RecyclerView Widget, to layout views in flow style, with support of predictive animations, item per line limit, auto measurement & alignments (left or right)
 ![](https://cloud.githubusercontent.com/assets/15362031/15170689/fe3117d6-16fc-11e6-8ffc-3e90b9bf5430.gif)
@@ -110,7 +110,7 @@ customized layoutmanager,let item pile up like stackview/类似最美有物卡�
 ![](https://github.com/HirayClay/StackLayoutManager/raw/master/static/hrreverse.gif)
 ![](https://github.com/HirayClay/StackLayoutManager/raw/master/static/VerticallSLM.gif)
 
-## [Greedo Layout for Android](https://github.com/500px/greedo-layout-for-android) ⭐ 1,619 | 🐛 20 | 🌐 Java | 📅 2022-06-21
+## [Greedo Layout for Android](https://github.com/500px/greedo-layout-for-android) ⭐ 1,618 | 🐛 20 | 🌐 Java | 📅 2022-06-21
 
 Full aspect ratio grid LayoutManager for Android's RecyclerView <br />
 ![](https://github.com/500px/greedo-layout-for-android/raw/master/screenshot.png)
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
