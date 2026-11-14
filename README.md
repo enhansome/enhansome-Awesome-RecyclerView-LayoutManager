@@ -43,12 +43,12 @@ A Layoutmanager that must be used with RecyclerView. When list is scrolled views
 Scrollable list of items, where current item is centered and can be changed using swipes<br />
 ![](managerimgs/DiscreteScrollView.gif)
 
-## [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) ⭐ 1,618 | 🐛 20 | 🌐 Java | 📅 2022-06-21
+## [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) ⭐ 1,617 | 🐛 20 | 🌐 Java | 📅 2022-06-21
 
 Full aspect ratio grid LayoutManager for Android's RecyclerView also:[SuitedRecyclerView](https://github.com/asdzheng/SuitedRecyclerView) ⭐ 72 | 🐛 1 | 🌐 Java | 📅 2016-02-17 <br />
 ![](managerimgs/greedo-layout-for-android.png)
 
-## [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager) ⭐ 2,521 | 🐛 30 | 🌐 Java | 📅 2023-05-31
+## [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager) ⭐ 2,520 | 🐛 30 | 🌐 Java | 📅 2023-05-31
 
 仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等。同样效果的还有[CardSwipeLayout
 ](https://github.com/yuqirong/CardSwipeLayout) ⭐ 1,258 | 🐛 24 | 🌐 Java | 📅 2020-01-19 <br />
@@ -92,7 +92,7 @@ This project is the movement of a new card type UI for Android <br />
 
 ![](https://github.com/amyu/StackCardLayoutManager/raw/master/sc/screen.gif)
 
-## [TimetableLayout](https://github.com/MoyuruAizawa/TimetableLayout) ⭐ 777 | 🐛 1 | 🌐 Kotlin | 📅 2025-07-06
+## [TimetableLayout](https://github.com/MoyuruAizawa/TimetableLayout) ⭐ 776 | 🐛 1 | 🌐 Kotlin | 📅 2025-07-06
 
 TimetableLayout is a RecyclerView\.LayoutManager to display the timetable for Android.<br />
 
@@ -110,7 +110,7 @@ customized layoutmanager,let item pile up like stackview/类似最美有物卡�
 ![](https://github.com/HirayClay/StackLayoutManager/raw/master/static/hrreverse.gif)
 ![](https://github.com/HirayClay/StackLayoutManager/raw/master/static/VerticallSLM.gif)
 
-## [Greedo Layout for Android](https://github.com/500px/greedo-layout-for-android) ⭐ 1,618 | 🐛 20 | 🌐 Java | 📅 2022-06-21
+## [Greedo Layout for Android](https://github.com/500px/greedo-layout-for-android) ⭐ 1,617 | 🐛 20 | 🌐 Java | 📅 2022-06-21
 
 Full aspect ratio grid LayoutManager for Android's RecyclerView <br />
 ![](https://github.com/500px/greedo-layout-for-android/raw/master/screenshot.png)
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

@@ -219,7 +219,7 @@
             "open_issues": 20,
             "owner": "500px",
             "repo": "greedo-layout-for-android",
-            "stars": 1618,
+            "stars": 1617,
             "topics": [
               "android",
               "android-recyclerview",
@@ -248,7 +248,7 @@
             "open_issues": 30,
             "owner": "mcxtzhang",
             "repo": "ZLayoutManager",
-            "stars": 2521,
+            "stars": 2520,
             "topics": [
               "card",
               "cards",
@@ -432,7 +432,7 @@
             "open_issues": 1,
             "owner": "MoyuruAizawa",
             "repo": "TimetableLayout",
-            "stars": 777,
+            "stars": 776,
             "topics": [
               "android",
               "android-library",
@@ -515,7 +515,7 @@
             "open_issues": 20,
             "owner": "500px",
             "repo": "greedo-layout-for-android",
-            "stars": 1618,
+            "stars": 1617,
             "topics": [
               "android",
               "android-recyclerview",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:56:10.402Z",
+    "last_updated": "2026-11-14T19:18:44.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
