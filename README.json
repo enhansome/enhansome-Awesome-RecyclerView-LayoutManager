@@ -39,7 +39,7 @@
             "open_issues": 26,
             "owner": "Azoft",
             "repo": "CarouselLayoutManager",
-            "stars": 2567,
+            "stars": 2566,
             "topics": []
           },
           "title": "CarouselLayoutManager",
@@ -885,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:18:44.086Z",
+    "last_updated": "2026-11-15T19:52:36.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "RecyclerView-LayoutManager Resources",
