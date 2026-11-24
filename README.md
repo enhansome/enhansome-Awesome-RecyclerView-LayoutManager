@@ -2,7 +2,7 @@
 
 RecyclerView-LayoutManager resources
 
-## [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager) ⭐ 2,039 | 🐛 1 | 🌐 Java | 📅 2017-08-09
+## [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager) ⭐ 2,038 | 🐛 1 | 🌐 Java | 📅 2017-08-09
 
 Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades <br />
 ![](managerimgs/FanLayoutManager.gif)
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
