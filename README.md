@@ -2,7 +2,7 @@
 
 RecyclerView-LayoutManager resources
 
-## [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager) ⭐ 2,038 | 🐛 1 | 🌐 Java | 📅 2017-08-09
+## [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager) ⭐ 2,037 | 🐛 1 | 🌐 Java | 📅 2017-08-09
 
 Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades <br />
 ![](managerimgs/FanLayoutManager.gif)
@@ -38,7 +38,7 @@ FlexboxLayout is a library project which brings the similar capabilities of [CSS
 A Layoutmanager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory<br />
 ![](managerimgs/LondonEyeLayoutManager.gif)
 
-## [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) ⭐ 5,765 | 🐛 44 | 🌐 Java | 📅 2024-08-19
+## [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) ⭐ 5,764 | 🐛 44 | 🌐 Java | 📅 2024-08-19
 
 Scrollable list of items, where current item is centered and can be changed using swipes<br />
 ![](managerimgs/DiscreteScrollView.gif)
@@ -141,13 +141,13 @@ A RecyclerView\.LayoutManager implementation which provides functionality to sho
 
 ![](https://github.com/kapil93/Circular-Layout-Manager/raw/master/app/src/main/assets/clm.gif)
 
-## [RecyclerCoverFlow](https://github.com/ChenLittlePing/RecyclerCoverFlow) ⭐ 841 | 🐛 22 | 🌐 Java | 📅 2020-09-01
+## [RecyclerCoverFlow](https://github.com/ChenLittlePing/RecyclerCoverFlow) ⭐ 840 | 🐛 22 | 🌐 Java | 📅 2020-09-01
 
 <br />
 
 ![](https://github.com/ChenLittlePing/RecyclerCoverFlow/raw/master/gif/demo.gif)
 
-## [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager) ⭐ 833 | 🐛 2 | 🌐 Java | 📅 2023-03-02
+## [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager) ⭐ 832 | 🐛 2 | 🌐 Java | 📅 2023-03-02
 
 A Horizontal / vertical scroll RecyclerView-LayoutManager with focus item. <br />
 ![](https://github.com/CCY0122/FocusLayoutManager/blob/master/pic/gif_hor_2.gif)
@@ -196,4 +196,4 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
